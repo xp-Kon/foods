@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; background: #fce4ec; text-align: center; }
+.container { width: 80%; margin: auto; }
+#menu { display: flex; flex-wrap: wrap; justify-content: center; }
+.item { border: 1px solid #ddd; padding: 10px; margin: 10px; background: white; }
